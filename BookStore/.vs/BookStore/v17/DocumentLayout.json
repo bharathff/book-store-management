@@ -1,0 +1,690 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KAVIN\\Desktop\\BookStore\\Book\\BookStore\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7760ABD2-B4FC-4E03-90B5-208E00268177}|..\\Book.Models\\Book.Models.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7760ABD2-B4FC-4E03-90B5-208E00268177}|..\\Book.Models\\Book.Models.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7760ABD2-B4FC-4E03-90B5-208E00268177}|..\\Book.Models\\Book.Models.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F918BE8-9F50-4728-B96C-B00B14C643D6}|..\\Book.Utility\\Book.Utility.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F918BE8-9F50-4728-B96C-B00B14C643D6}|..\\Book.Utility\\Book.Utility.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\migrations\\20240505120339_addforeignkeyforcategoryproductrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505121121_AddCategoryIdToProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\migrations\\20240505111421_addproductstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505113433_addForeignKeyForCategoryProductRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|c:\\users\\kavin\\desktop\\bookstore\\bookstore\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850D7189-5AB7-4D30-9B0D-B64E508B31F0}|BookStore.csproj|solutionrelative:areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\migrations\\20240505131904_addimageurltoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\migrations\\20240510112412_updatenametobestringapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\migrations\\20240510043708_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E1E447-A3DD-4991-A5A5-60F566816E01}|..\\Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\kavin\\desktop\\bookstore\\book.dataaccess\\migrations\\20240510042648_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "..\\Book.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Utility\\SD.cs",
+              "RelativeToolTip": "..\\Book.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:03:54.736Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book\\BookStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Book\\BookStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book\\BookStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Book\\BookStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T06:30:51.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-10T11:27:47.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T11:41:00.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\Book.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\Book.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:29:58.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "..\\Book.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "..\\Book.Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:58:35.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Book.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Models\\Product.cs",
+              "RelativeToolTip": "..\\Book.Models\\Product.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:31:15.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.js",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\wwwroot\\js\\product.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\product.js",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\wwwroot\\js\\product.js",
+              "RelativeToolTip": "wwwroot\\js\\product.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-09T05:30:31.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T10:34:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T04:10:07.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T14:02:24.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:06:25.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAD4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T10:56:47.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T08:17:47.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240510112412_UpdateNameToBeStringApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240510112412_UpdateNameToBeStringApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Migrations\\20240510112412_UpdateNameToBeStringApplicationUser.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240510112412_UpdateNameToBeStringApplicationUser.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Migrations\\20240510112412_UpdateNameToBeStringApplicationUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:24:12.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:43:43.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T11:28:26.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAQwHgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T10:37:00.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T11:31:06.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:51:54.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:36:46.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:46:53.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T10:33:54.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:22:42.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T14:03:58.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240510043708_ExtendIdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240510043708_ExtendIdentityUser.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Migrations\\20240510043708_ExtendIdentityUser.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240510043708_ExtendIdentityUser.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Migrations\\20240510043708_ExtendIdentityUser.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:37:08.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T14:03:04.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240510042648_addIdentityTables.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240510042648_addIdentityTables.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Migrations\\20240510042648_addIdentityTables.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240510042648_addIdentityTables.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Migrations\\20240510042648_addIdentityTables.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:26:48.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "..\\Book.Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.Utility\\EmailSender.cs",
+              "RelativeToolTip": "..\\Book.Utility\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:15:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T04:11:30.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-09T15:02:42.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:54:44.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T11:58:04.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T12:38:52.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA+wEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:04:54.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:06:56.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T06:09:55.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240505131904_addImageUrlToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505131904_addImageUrlToProduct.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Migrations\\20240505131904_addImageUrlToProduct.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505131904_addImageUrlToProduct.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Migrations\\20240505131904_addImageUrlToProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:19:04.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240505121121_AddCategoryIdToProducts.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505121121_AddCategoryIdToProducts.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Migrations\\20240505121121_AddCategoryIdToProducts.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505121121_AddCategoryIdToProducts.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Migrations\\20240505121121_AddCategoryIdToProducts.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:11:21.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240505120339_addForeignKeyForCategoryProductRelation.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505120339_addForeignKeyForCategoryProductRelation.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Migrations\\20240505120339_addForeignKeyForCategoryProductRelation.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505120339_addForeignKeyForCategoryProductRelation.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Migrations\\20240505120339_addForeignKeyForCategoryProductRelation.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwDsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:03:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240505113433_addForeignKeyForCategoryProductRelation.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505113433_addForeignKeyForCategoryProductRelation.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Migrations\\20240505113433_addForeignKeyForCategoryProductRelation.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505113433_addForeignKeyForCategoryProductRelation.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Migrations\\20240505113433_addForeignKeyForCategoryProductRelation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:34:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240505111421_addProductsToDb.cs",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505111421_addProductsToDb.cs",
+              "RelativeDocumentMoniker": "..\\Book.DataAccess\\Migrations\\20240505111421_addProductsToDb.cs",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\Book.DataAccess\\Migrations\\20240505111421_addProductsToDb.cs",
+              "RelativeToolTip": "..\\Book.DataAccess\\Migrations\\20240505111421_addProductsToDb.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:14:21.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KAVIN\\Desktop\\BookStore\\BookStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T10:48:29.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

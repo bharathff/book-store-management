@@ -1,0 +1,62 @@
+﻿@model List<Product>
+<partial name="_Notification" />
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient m-lg-0 py-4">
+        <div class="row">
+            <div class="col-6">
+                <h2 class="card-title text-white  mb-0">Product List</h2>
+            </div>
+            <div class="col-6 text-end">
+                <a asp-action="Upsert" class="btn btn-primary">
+                    <i class="bi bi-plus-circle"></i> Create new Product
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <table id="tblData" class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>ISBN</th>
+                    <th>Price</th>
+                    <th>Author</th>
+                    <th>Category</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.Title</td>
+                        <td>@product.ISBN</td>
+                        <td>@product.Price</td>
+                        <td>@product.Author</td>
+                        <td>@product.Category</td>
+                        <td>
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-primary mx-2">
+                                    <i class="bi bi-pencil-square"></i> Edit
+                                </a>
+                                <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger mx-2">
+                                    <i class="bi bi-pencil-square"></i> Delete
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/product.js"></script>
+}
+<style>
+    .table > thead > tr > th {
+        background-color: #f5f5f5;
+    }
+</style>
